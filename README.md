@@ -4,8 +4,10 @@
 
 🎓 My name is Azhar Nurgaliyeva, and I am a current M.Sc. student in Computing at Imperial College London.
 
-💃🏻 Outside my studies, I enjoy making myself learn new skills. My hobbies range from **reading**, **solving puzzles**,
-and **writing** to something more fun like **making bracelets**, **collecting cool stickers** and **dancing**.
+💃🏻 Outside my studies, I enjoy **reading**, **watching sitcoms** and **writing**. Being part of the book club and 
+poetry society helps me to discover new genres & ideas. Recently, I learnt how to make **cute friendship bracelets**. 
+I love the design process because I try choosing the colour and the beads for each person based on our shared memories 
+or fun stories.
 
 📚 When it comes to reading, I enjoy such genres like **science/detective/mystery fiction** and anything *
 *psychology-related** (from a more neuroscience rather than personal development point of view). My favorite ones are *
@@ -13,7 +15,6 @@ and **writing** to something more fun like **making bracelets**, **collecting co
 
 ## Extracurricular achievements ✨
 
-- ⭐ **Mentor** at _OQU Academy_ (September 2022 - December 2022)
 - ⭐ **Student Representative** at _UCL Engineering Faculty EDI (Equality, Diversity, Inclusion) Strategy
   Board_ (November 2021 - June 2022)
 - ⭐ **Student Volunteer & Head of Outreach** at _Engineers Without Borders (UCL chapter)_ (September 2019 - September
