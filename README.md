@@ -55,4 +55,4 @@ and **writing** to something more fun like **making bracelets**, **collecting co
 
 ## Goals
 ### Improving stats
-[![stats](https://github-readme-stats.vercel.app/api?username=azhar-nurgaliyeva&count_private=true&show_icons=true&theme=radical)]()
+[![stats](https://github-readme-stats.vercel.app/api?username=azhar-nurgaliyeva&count_private=true&show_icons=true&theme=midnight-purple)]()
