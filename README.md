@@ -4,14 +4,7 @@
 
 🎓 My name is Azhar Nurgaliyeva, and I am a current M.Sc. student in Computing at Imperial College London.
 
-💃🏻 Outside my studies, I enjoy **reading**, **watching sitcoms** and **writing**. Being part of the book club and 
-poetry society helps me to discover new genres & ideas. Recently, I learnt how to make **cute friendship bracelets**. 
-I love the design process because I try choosing the colour and the beads for each person based on our shared memories 
-or fun stories.
-
-📚 When it comes to reading, I enjoy such genres like **science/detective/mystery fiction** and anything *
-*psychology-related** (from a more neuroscience rather than personal development point of view). My favorite ones are *
-*The Shadow of the Wind** by _Carlos Ruiz Zafon_ and **The Science of Fate** by _Hannah Critchlow_.
+📚 My interests range from sustainable solutions like renewable energy systems to understanding the complexities of the human brain, and I'm always looking for ways to apply technology to make a positive impact.
 
 ## Extracurricular achievements ✨
 
